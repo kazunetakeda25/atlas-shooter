@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 1d6374d1cd02a3c409238c9fe2104849
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car_Body
+    100004: LB_Wheel
+    100006: LF_Wheel
+    100008: RB_Wheel
+    100010: RF_Wheel
+    400000: //RootNode
+    400002: Car_Body
+    400004: LB_Wheel
+    400006: LF_Wheel
+    400008: RB_Wheel
+    400010: RF_Wheel
+    2300000: //RootNode
+    2300002: Car_Body
+    2300004: LB_Wheel
+    2300006: LF_Wheel
+    2300008: RB_Wheel
+    2300010: RF_Wheel
+    3300000: //RootNode
+    3300002: Car_Body
+    3300004: LB_Wheel
+    3300006: LF_Wheel
+    3300008: RB_Wheel
+    3300010: RF_Wheel
+    4300000: TaxiCab
+    4300002: Car_Body
+    4300004: RB_Wheel
+    4300006: RF_Wheel
+    4300008: LF_Wheel
+    4300010: LB_Wheel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

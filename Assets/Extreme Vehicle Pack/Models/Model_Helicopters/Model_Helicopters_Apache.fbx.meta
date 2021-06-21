@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 2bca7a7977ab6864ba15e84a00e1b4db
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Apache_Base
+    100002: Blades
+    100004: infrared
+    100006: Inrared
+    100008: //RootNode
+    100010: Read_rotor
+    100012: Window
+    100014: Plane_Body
+    100016: Propellor
+    100018: Aircraft_Body
+    100020: Propellor_Large
+    100022: Propellor_Small
+    400000: Apache_Base
+    400002: Blades
+    400004: infrared
+    400006: Inrared
+    400008: //RootNode
+    400010: Read_rotor
+    400012: Window
+    400014: Plane_Body
+    400016: Propellor
+    400018: Aircraft_Body
+    400020: Propellor_Large
+    400022: Propellor_Small
+    2300000: Apache_Base
+    2300002: Blades
+    2300004: infrared
+    2300006: Inrared
+    2300008: Read_rotor
+    2300010: Window
+    2300012: //RootNode
+    2300014: Plane_Body
+    2300016: Propellor
+    2300018: Aircraft_Body
+    2300020: Propellor_Large
+    2300022: Propellor_Small
+    3300000: Apache_Base
+    3300002: Blades
+    3300004: infrared
+    3300006: Inrared
+    3300008: Read_rotor
+    3300010: Window
+    3300012: //RootNode
+    3300014: Plane_Body
+    3300016: Propellor
+    3300018: Aircraft_Body
+    3300020: Propellor_Large
+    3300022: Propellor_Small
+    4300000: Blades
+    4300002: infrared
+    4300004: Read_rotor
+    4300006: Inrared
+    4300008: Apache_Base
+    4300010: Window
+    4300012: Apache
+    4300014: Propellor
+    4300016: Plane_Body
+    4300018: Propellor_Large
+    4300020: Aircraft_Body
+    4300022: Propellor_Small
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

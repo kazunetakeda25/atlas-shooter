@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 8079c8f05238dad45ab594670c4c605b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Passied_Back_Damaged_LOD0
+    100004: Passied_Back_Damaged_LOD1
+    100006: Passied_Back_LOD0
+    100008: Passied_Back_LOD1
+    100010: Passied_Front_Damaged_LOD0
+    100012: Passied_Front_Damaged_LOD1
+    100014: Passied_Front_LOD0
+    100016: Passied_Front_LOD1
+    100018: Passied_Middle_Damaged_LOD0
+    100020: Passied_Middle_Damaged_LOD1
+    100022: Passied_Middle_LOD0
+    100024: Passied_Middle_LOD1
+    400000: //RootNode
+    400002: Passied_Back_Damaged_LOD0
+    400004: Passied_Back_Damaged_LOD1
+    400006: Passied_Back_LOD0
+    400008: Passied_Back_LOD1
+    400010: Passied_Front_Damaged_LOD0
+    400012: Passied_Front_Damaged_LOD1
+    400014: Passied_Front_LOD0
+    400016: Passied_Front_LOD1
+    400018: Passied_Middle_Damaged_LOD0
+    400020: Passied_Middle_Damaged_LOD1
+    400022: Passied_Middle_LOD0
+    400024: Passied_Middle_LOD1
+    2300000: Passied_Back_Damaged_LOD0
+    2300002: Passied_Back_Damaged_LOD1
+    2300004: Passied_Back_LOD0
+    2300006: Passied_Back_LOD1
+    2300008: Passied_Front_Damaged_LOD0
+    2300010: Passied_Front_Damaged_LOD1
+    2300012: Passied_Front_LOD0
+    2300014: Passied_Front_LOD1
+    2300016: Passied_Middle_Damaged_LOD0
+    2300018: Passied_Middle_Damaged_LOD1
+    2300020: Passied_Middle_LOD0
+    2300022: Passied_Middle_LOD1
+    2300024: //RootNode
+    3300000: Passied_Back_Damaged_LOD0
+    3300002: Passied_Back_Damaged_LOD1
+    3300004: Passied_Back_LOD0
+    3300006: Passied_Back_LOD1
+    3300008: Passied_Front_Damaged_LOD0
+    3300010: Passied_Front_Damaged_LOD1
+    3300012: Passied_Front_LOD0
+    3300014: Passied_Front_LOD1
+    3300016: Passied_Middle_Damaged_LOD0
+    3300018: Passied_Middle_Damaged_LOD1
+    3300020: Passied_Middle_LOD0
+    3300022: Passied_Middle_LOD1
+    3300024: //RootNode
+    4300000: Passied_Back_Damaged_LOD1
+    4300002: Passied_Middle_LOD1
+    4300004: Passied_Front_Damaged_LOD1
+    4300006: Passied_Front_LOD1
+    4300008: Passied_Back_LOD1
+    4300010: Passied_Middle_LOD0
+    4300012: Passied_Back_LOD0
+    4300014: Passied_Middle_Damaged_LOD0
+    4300016: Passied_Back_Damaged_LOD0
+    4300018: Passied_Front_LOD0
+    4300020: Passied_Front_Damaged_LOD0
+    4300022: Passied_Middle_Damaged_LOD1
+    4300024: Passied_Damaged
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .00999999978
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

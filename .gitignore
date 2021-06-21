@@ -35,3 +35,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Extreme Vehicle Pack/Textures/T_Vehicles_Cars/T_Car_Van_Col.TGA
+Assets/Extreme Vehicle Pack/Textures/T_Vehicles_Helicopters/T_Helicopter_SG_Col.TGA

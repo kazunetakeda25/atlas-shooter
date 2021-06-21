@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 2ac3cc676ef56fe429818e747755e880
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Model_Car_Lolvo_LOD0
+    100004: Model_Car_Lolvo_LOD1
+    100006: Car_Body
+    100008: Car_Body_LOD1
+    100010: LB_Wheel
+    100012: LB_Wheel_LOD1
+    100014: LF_Wheel
+    100016: LF_Wheel_LOD1
+    100018: RB_Wheel
+    100020: RB_Wheel_LOD1
+    100022: RF_Wheel
+    100024: RF_Wheel_LOD1
+    100026: Car_Body_LOD0
+    100028: LB_Wheel_LOD0
+    100030: LF_Wheel_LOD0
+    100032: RB_Wheel_LOD0
+    100034: RF_Wheel_LOD0
+    400000: //RootNode
+    400002: Model_Car_Lolvo_LOD0
+    400004: Model_Car_Lolvo_LOD1
+    400006: Car_Body
+    400008: Car_Body_LOD1
+    400010: LB_Wheel
+    400012: LB_Wheel_LOD1
+    400014: LF_Wheel
+    400016: LF_Wheel_LOD1
+    400018: RB_Wheel
+    400020: RB_Wheel_LOD1
+    400022: RF_Wheel
+    400024: RF_Wheel_LOD1
+    400026: Car_Body_LOD0
+    400028: LB_Wheel_LOD0
+    400030: LF_Wheel_LOD0
+    400032: RB_Wheel_LOD0
+    400034: RF_Wheel_LOD0
+    2300000: Model_Car_Lolvo_LOD0
+    2300002: Model_Car_Lolvo_LOD1
+    2300004: //RootNode
+    2300006: Car_Body
+    2300008: Car_Body_LOD1
+    2300010: LB_Wheel
+    2300012: LB_Wheel_LOD1
+    2300014: LF_Wheel
+    2300016: LF_Wheel_LOD1
+    2300018: RB_Wheel
+    2300020: RB_Wheel_LOD1
+    2300022: RF_Wheel
+    2300024: RF_Wheel_LOD1
+    2300026: Car_Body_LOD0
+    2300028: LB_Wheel_LOD0
+    2300030: LF_Wheel_LOD0
+    2300032: RB_Wheel_LOD0
+    2300034: RF_Wheel_LOD0
+    3300000: Model_Car_Lolvo_LOD0
+    3300002: Model_Car_Lolvo_LOD1
+    3300004: //RootNode
+    3300006: Car_Body
+    3300008: Car_Body_LOD1
+    3300010: LB_Wheel
+    3300012: LB_Wheel_LOD1
+    3300014: LF_Wheel
+    3300016: LF_Wheel_LOD1
+    3300018: RB_Wheel
+    3300020: RB_Wheel_LOD1
+    3300022: RF_Wheel
+    3300024: RF_Wheel_LOD1
+    3300026: Car_Body_LOD0
+    3300028: LB_Wheel_LOD0
+    3300030: LF_Wheel_LOD0
+    3300032: RB_Wheel_LOD0
+    3300034: RF_Wheel_LOD0
+    4300000: Model_Car_Lolvo_LOD0
+    4300002: Model_Car_Lolvo_LOD1
+    4300004: Model_Car_Lolvo
+    4300006: RB_Wheel
+    4300008: LB_Wheel
+    4300010: LF_Wheel
+    4300012: RF_Wheel
+    4300014: Car_Body
+    4300016: RF_Wheel_LOD1
+    4300018: RB_Wheel_LOD1
+    4300020: LF_Wheel_LOD1
+    4300022: LB_Wheel_LOD1
+    4300024: Car_Body_LOD1
+    4300026: RB_Wheel_LOD0
+    4300028: LB_Wheel_LOD0
+    4300030: LF_Wheel_LOD0
+    4300032: RF_Wheel_LOD0
+    4300034: Car_Body_LOD0
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .00999999978
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

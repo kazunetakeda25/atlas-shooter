@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 4e4763408743fc1489b5246a240855a3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Model_Vehicles_Technical_Truck_LOD0
+    100004: Model_Vehicles_Technical_Truck_LOD1
+    100006: Model_Vehicles_Technical_Truck_LOD2
+    100008: Car_Body
+    100010: Car_Body 1
+    100012: LB_Wheel
+    100014: LB_Wheel 1
+    100016: LB_Wheel 2
+    100018: LB_Wheel1
+    100020: LB_Wheel2
+    100022: LB_Wheel3
+    100024: LF_Wheel
+    100026: LF_Wheel 1
+    100028: LF_Wheel 2
+    100030: LF_Wheel1
+    100032: LF_Wheel2
+    100034: LF_Wheel3
+    100036: polySurface10
+    100038: polySurface9
+    100040: RB_Wheel
+    100042: RB_Wheel 1
+    100044: RB_Wheel 2
+    100046: RB_Wheel1
+    100048: RB_Wheel2
+    100050: RB_Wheel3
+    100052: RF_Wheel
+    100054: RF_Wheel 1
+    100056: RF_Wheel 2
+    100058: RF_Wheel1
+    100060: RF_Wheel2
+    100062: RF_Wheel3
+    100064: Car_Body_LOD0
+    100066: Car_Body_LOD2
+    100068: LB_Wheel1_LOD0
+    100070: LB_Wheel2_LOD2
+    100072: LB_Wheel3_LOD1
+    100074: LB_Wheel_LOD0
+    100076: LB_Wheel_LOD1
+    100078: LB_Wheel_LOD2
+    100080: LF_Wheel1_LOD0
+    100082: LF_Wheel2_LOD2
+    100084: LF_Wheel3_LOD1
+    100086: LF_Wheel_LOD0
+    100088: LF_Wheel_LOD1
+    100090: LF_Wheel_LOD2
+    100092: RB_Wheel1_LOD0
+    100094: RB_Wheel2_LOD2
+    100096: RB_Wheel3_LOD1
+    100098: RB_Wheel_LOD0
+    100100: RB_Wheel_LOD1
+    100102: RB_Wheel_LOD2
+    100104: RF_Wheel1_LOD0
+    100106: RF_Wheel2_LOD2
+    100108: RF_Wheel3_LOD1
+    100110: RF_Wheel_LOD0
+    100112: RF_Wheel_LOD1
+    100114: RF_Wheel_LOD2
+    100116: Car_Body_LOD1
+    400000: //RootNode
+    400002: Model_Vehicles_Technical_Truck_LOD0
+    400004: Model_Vehicles_Technical_Truck_LOD1
+    400006: Model_Vehicles_Technical_Truck_LOD2
+    400008: Car_Body
+    400010: Car_Body 1
+    400012: LB_Wheel
+    400014: LB_Wheel 1
+    400016: LB_Wheel 2
+    400018: LB_Wheel1
+    400020: LB_Wheel2
+    400022: LB_Wheel3
+    400024: LF_Wheel
+    400026: LF_Wheel 1
+    400028: LF_Wheel 2
+    400030: LF_Wheel1
+    400032: LF_Wheel2
+    400034: LF_Wheel3
+    400036: polySurface10
+    400038: polySurface9
+    400040: RB_Wheel
+    400042: RB_Wheel 1
+    400044: RB_Wheel 2
+    400046: RB_Wheel1
+    400048: RB_Wheel2
+    400050: RB_Wheel3
+    400052: RF_Wheel
+    400054: RF_Wheel 1
+    400056: RF_Wheel 2
+    400058: RF_Wheel1
+    400060: RF_Wheel2
+    400062: RF_Wheel3
+    400064: Car_Body_LOD0
+    400066: Car_Body_LOD2
+    400068: LB_Wheel1_LOD0
+    400070: LB_Wheel2_LOD2
+    400072: LB_Wheel3_LOD1
+    400074: LB_Wheel_LOD0
+    400076: LB_Wheel_LOD1
+    400078: LB_Wheel_LOD2
+    400080: LF_Wheel1_LOD0
+    400082: LF_Wheel2_LOD2
+    400084: LF_Wheel3_LOD1
+    400086: LF_Wheel_LOD0
+    400088: LF_Wheel_LOD1
+    400090: LF_Wheel_LOD2
+    400092: RB_Wheel1_LOD0
+    400094: RB_Wheel2_LOD2
+    400096: RB_Wheel3_LOD1
+    400098: RB_Wheel_LOD0
+    400100: RB_Wheel_LOD1
+    400102: RB_Wheel_LOD2
+    400104: RF_Wheel1_LOD0
+    400106: RF_Wheel2_LOD2
+    400108: RF_Wheel3_LOD1
+    400110: RF_Wheel_LOD0
+    400112: RF_Wheel_LOD1
+    400114: RF_Wheel_LOD2
+    400116: Car_Body_LOD1
+    2300000: Model_Vehicles_Technical_Truck_LOD0
+    2300002: Model_Vehicles_Technical_Truck_LOD1
+    2300004: Model_Vehicles_Technical_Truck_LOD2
+    2300006: //RootNode
+    2300008: Car_Body
+    2300010: Car_Body 1
+    2300012: LB_Wheel
+    2300014: LB_Wheel 1
+    2300016: LB_Wheel 2
+    2300018: LB_Wheel1
+    2300020: LB_Wheel2
+    2300022: LB_Wheel3
+    2300024: LF_Wheel
+    2300026: LF_Wheel 1
+    2300028: LF_Wheel 2
+    2300030: LF_Wheel1
+    2300032: LF_Wheel2
+    2300034: LF_Wheel3
+    2300036: polySurface10
+    2300038: polySurface9
+    2300040: RB_Wheel
+    2300042: RB_Wheel 1
+    2300044: RB_Wheel 2
+    2300046: RB_Wheel1
+    2300048: RB_Wheel2
+    2300050: RB_Wheel3
+    2300052: RF_Wheel
+    2300054: RF_Wheel 1
+    2300056: RF_Wheel 2
+    2300058: RF_Wheel1
+    2300060: RF_Wheel2
+    2300062: RF_Wheel3
+    2300064: Car_Body_LOD0
+    2300066: Car_Body_LOD2
+    2300068: LB_Wheel1_LOD0
+    2300070: LB_Wheel2_LOD2
+    2300072: LB_Wheel3_LOD1
+    2300074: LB_Wheel_LOD0
+    2300076: LB_Wheel_LOD1
+    2300078: LB_Wheel_LOD2
+    2300080: LF_Wheel1_LOD0
+    2300082: LF_Wheel2_LOD2
+    2300084: LF_Wheel3_LOD1
+    2300086: LF_Wheel_LOD0
+    2300088: LF_Wheel_LOD1
+    2300090: LF_Wheel_LOD2
+    2300092: RB_Wheel1_LOD0
+    2300094: RB_Wheel2_LOD2
+    2300096: RB_Wheel3_LOD1
+    2300098: RB_Wheel_LOD0
+    2300100: RB_Wheel_LOD1
+    2300102: RB_Wheel_LOD2
+    2300104: RF_Wheel1_LOD0
+    2300106: RF_Wheel2_LOD2
+    2300108: RF_Wheel3_LOD1
+    2300110: RF_Wheel_LOD0
+    2300112: RF_Wheel_LOD1
+    2300114: RF_Wheel_LOD2
+    2300116: Car_Body_LOD1
+    3300000: Model_Vehicles_Technical_Truck_LOD0
+    3300002: Model_Vehicles_Technical_Truck_LOD1
+    3300004: Model_Vehicles_Technical_Truck_LOD2
+    3300006: //RootNode
+    3300008: Car_Body
+    3300010: Car_Body 1
+    3300012: LB_Wheel
+    3300014: LB_Wheel 1
+    3300016: LB_Wheel 2
+    3300018: LB_Wheel1
+    3300020: LB_Wheel2
+    3300022: LB_Wheel3
+    3300024: LF_Wheel
+    3300026: LF_Wheel 1
+    3300028: LF_Wheel 2
+    3300030: LF_Wheel1
+    3300032: LF_Wheel2
+    3300034: LF_Wheel3
+    3300036: polySurface10
+    3300038: polySurface9
+    3300040: RB_Wheel
+    3300042: RB_Wheel 1
+    3300044: RB_Wheel 2
+    3300046: RB_Wheel1
+    3300048: RB_Wheel2
+    3300050: RB_Wheel3
+    3300052: RF_Wheel
+    3300054: RF_Wheel 1
+    3300056: RF_Wheel 2
+    3300058: RF_Wheel1
+    3300060: RF_Wheel2
+    3300062: RF_Wheel3
+    3300064: Car_Body_LOD0
+    3300066: Car_Body_LOD2
+    3300068: LB_Wheel1_LOD0
+    3300070: LB_Wheel2_LOD2
+    3300072: LB_Wheel3_LOD1
+    3300074: LB_Wheel_LOD0
+    3300076: LB_Wheel_LOD1
+    3300078: LB_Wheel_LOD2
+    3300080: LF_Wheel1_LOD0
+    3300082: LF_Wheel2_LOD2
+    3300084: LF_Wheel3_LOD1
+    3300086: LF_Wheel_LOD0
+    3300088: LF_Wheel_LOD1
+    3300090: LF_Wheel_LOD2
+    3300092: RB_Wheel1_LOD0
+    3300094: RB_Wheel2_LOD2
+    3300096: RB_Wheel3_LOD1
+    3300098: RB_Wheel_LOD0
+    3300100: RB_Wheel_LOD1
+    3300102: RB_Wheel_LOD2
+    3300104: RF_Wheel1_LOD0
+    3300106: RF_Wheel2_LOD2
+    3300108: RF_Wheel3_LOD1
+    3300110: RF_Wheel_LOD0
+    3300112: RF_Wheel_LOD1
+    3300114: RF_Wheel_LOD2
+    3300116: Car_Body_LOD1
+    4300000: Model_Vehicles_Technical_Truck_LOD1
+    4300002: Model_Vehicles_Technical_Truck_LOD2
+    4300004: Model_Vehicles_Technical_Truck_LOD0
+    4300006: Model_Vehicles_Technical_Truck
+    4300008: RF_Wheel
+    4300010: RF_Wheel3
+    4300012: RB_Wheel
+    4300014: RB_Wheel3
+    4300016: LF_Wheel
+    4300018: LF_Wheel3
+    4300020: LB_Wheel
+    4300022: LB_Wheel3
+    4300024: polySurface9
+    4300026: polySurface10
+    4300028: LF_Wheel
+    4300030: LF_Wheel2
+    4300032: LB_Wheel
+    4300034: LB_Wheel2
+    4300036: RF_Wheel
+    4300038: RF_Wheel2
+    4300040: RB_Wheel
+    4300042: RB_Wheel2
+    4300044: Car_Body
+    4300046: RF_Wheel
+    4300048: LF_Wheel
+    4300050: RB_Wheel
+    4300052: RB_Wheel1
+    4300054: RF_Wheel1
+    4300056: LB_Wheel
+    4300058: LB_Wheel1
+    4300060: LF_Wheel1
+    4300062: Car_Body
+    4300064: RF_Wheel_LOD1
+    4300066: RF_Wheel3_LOD1
+    4300068: RB_Wheel_LOD1
+    4300070: RB_Wheel3_LOD1
+    4300072: LF_Wheel_LOD1
+    4300074: LF_Wheel3_LOD1
+    4300076: LB_Wheel_LOD1
+    4300078: LB_Wheel3_LOD1
+    4300080: LF_Wheel_LOD2
+    4300082: LF_Wheel2_LOD2
+    4300084: LB_Wheel_LOD2
+    4300086: LB_Wheel2_LOD2
+    4300088: RF_Wheel_LOD2
+    4300090: RF_Wheel2_LOD2
+    4300092: RB_Wheel_LOD2
+    4300094: RB_Wheel2_LOD2
+    4300096: Car_Body_LOD2
+    4300098: RF_Wheel_LOD0
+    4300100: LF_Wheel_LOD0
+    4300102: RB_Wheel_LOD0
+    4300104: RB_Wheel1_LOD0
+    4300106: RF_Wheel1_LOD0
+    4300108: LB_Wheel_LOD0
+    4300110: LB_Wheel1_LOD0
+    4300112: LF_Wheel1_LOD0
+    4300114: Car_Body_LOD0
+    4300116: Car_Body_LOD1
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .00999999978
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
