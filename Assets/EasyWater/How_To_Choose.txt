@@ -1,0 +1,10 @@
+You can know which features each shader contains reading the suffix:
+
+C = Color
+T = Texture Slot
+TT = 2 Texture Slots
+B = BumpMaps
+D = Distortion Slot
+O = Opacity
+FO = Fresnel Opacity (Opacity depends on view angle)
+R = Reflection
