@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b88891fe353657b49ad03c34cde79d16
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dieAnim: {fileID: 7400274, guid: 67ea73280d493954c9060f2565206721, type: 3}
+  - model: {fileID: 400020, guid: 67ea73280d493954c9060f2565206721, type: 3}
+  - ParticleHit: {instanceID: 0}
+  - lineRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
