@@ -1,0 +1,64 @@
+/*
+http://www.cgsoso.com/forum-211-1.html
+
+CG搜搜 Unity3d 每日Unity3d插件免费更新 更有VIP资源！
+
+CGSOSO 主打游戏开发，影视设计等CG资源素材。
+
+插件如若商用，请务必官网购买！
+
+daily assets update for try.
+
+U should buy the asset from home store if u use it in your project!
+*/
+
+#if (UNITY_ANDROID || UNITY_IPHONE)
+using System;
+using System.Runtime.InteropServices;
+
+namespace GooglePlayGames.Native.PInvoke {
+internal abstract class BaseReferenceHolder : IDisposable {
+
+    private HandleRef mSelfPointer;
+
+    protected bool IsDisposed() {
+        return PInvokeUtilities.IsNull(mSelfPointer);
+    }
+
+    protected HandleRef SelfPtr() {
+        if (IsDisposed()) {
+            throw new InvalidOperationException(
+                "Attempted to use object after it was cleaned up");
+        }
+
+        return mSelfPointer;
+    }
+
+    public BaseReferenceHolder (IntPtr pointer) {
+        mSelfPointer = PInvokeUtilities.CheckNonNull(new HandleRef(this, pointer));
+    }
+
+    protected abstract void CallDispose(HandleRef selfPointer);
+
+    ~BaseReferenceHolder () {
+        Dispose(true);
+    }
+
+    public void Dispose() {
+        Dispose(false);
+        System.GC.SuppressFinalize(this);
+    }
+
+    internal IntPtr AsPointer() {
+        return SelfPtr().Handle;
+    }
+
+    private void Dispose(bool fromFinalizer) {
+        if (!PInvokeUtilities.IsNull(mSelfPointer)) {
+            CallDispose(mSelfPointer);
+            mSelfPointer = new HandleRef(this, IntPtr.Zero);
+        }
+    }
+}
+}
+#endif
