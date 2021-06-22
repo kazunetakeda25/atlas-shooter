@@ -1,0 +1,60 @@
+/*
+http://www.cgsoso.com/forum-211-1.html
+
+CG搜搜 Unity3d 每日Unity3d插件免费更新 更有VIP资源！
+
+CGSOSO 主打游戏开发，影视设计等CG资源素材。
+
+插件如若商用，请务必官网购买！
+
+daily assets update for try.
+
+U should buy the asset from home store if u use it in your project!
+*/
+
+//----------------------------------------------
+//            NGUI: Next-Gen UI kit
+// Copyright © 2011-2012 Tasharen Entertainment
+//----------------------------------------------
+
+using UnityEngine;
+
+/// <summary>
+/// This script can be used to restrict camera rendering to a specific part of the screen by specifying the two corners.
+/// </summary>
+
+[ExecuteInEditMode]
+[RequireComponent(typeof(Camera))]
+[AddComponentMenu("NGUI/UI/Viewport Camera")]
+public class UIViewport : MonoBehaviour
+{
+	public Camera sourceCamera;
+	public Transform topLeft;
+	public Transform bottomRight;
+	public float fullSize = 1f;
+
+	Camera mCam;
+
+	void Start ()
+	{
+		mCam = camera;
+		if (sourceCamera == null) sourceCamera = Camera.main;
+	}
+
+	void LateUpdate ()
+	{
+		if (topLeft != null && bottomRight != null)
+		{
+			Vector3 tl = sourceCamera.WorldToScreenPoint(topLeft.position);
+			Vector3 br = sourceCamera.WorldToScreenPoint(bottomRight.position);
+
+			Rect rect = new Rect(tl.x / Screen.width, br.y / Screen.height,
+				(br.x - tl.x) / Screen.width, (tl.y - br.y) / Screen.height);
+
+			float size = fullSize * rect.height;
+
+			if (rect != mCam.rect) mCam.rect = rect;
+			if (mCam.orthographicSize != size) mCam.orthographicSize = size;
+		}
+	}
+}
